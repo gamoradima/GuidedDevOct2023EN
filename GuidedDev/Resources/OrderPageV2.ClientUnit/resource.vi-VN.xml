@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ChangeInvoice.Value" Value="Một hóa đơn đã được tạo để thanh toán. Bạn có muốn sửa đổi dữ liệu hóa đơn?" />
+			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="Hoãn lại cho đến khi" />
+			<Item Name="LocalizableStrings.CreateContract.Value" Value="Hợp đồng mới dựa trên đơn hàng" />
+			<Item Name="LocalizableStrings.CreateInvoiceByOrderCaption.Caption" Value="Hóa đơn mới dựa trên đơn hàng này" />
+			<Item Name="LocalizableStrings.CreateInvoiceByOrderCaption.Value" Value="Hóa đơn mới dựa trên đơn hàng này" />
+			<Item Name="LocalizableStrings.CreateInvoiceFromOrderProcessNotSet.Caption" Value="CreateInvoiceFromOrderProcessNotSet" />
+			<Item Name="LocalizableStrings.CreateInvoiceFromOrderProcessNotSet.Value" Value="SysSetting CreateInvoiceFromOrderProcess does not contain any process value." />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Tin tức" />
+			<Item Name="LocalizableStrings.FileNotesTabCaption.Value" Value="Đính kèm và ghi chú" />
+			<Item Name="LocalizableStrings.LeadTabCaption.Value" Value="Leads" />
+			<Item Name="LocalizableStrings.LinkProductCaption.Value" Value="Kết nối các sản phẩm đã đặt hàng với hợp đồng?" />
+			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="Có nhiều hơn một phần tử dãy chờ được kết nối với quá trình này. Id quá trình: {0}" />
+			<Item Name="LocalizableStrings.OpportunityCaption.Value" Value="Cơ hội" />
+			<Item Name="LocalizableStrings.OpportunityTip.Value" Value="Một cơ hội với đơn hàng đã được tạo ra. Tra cứu được lọc theo số liên lạc và tài khoản được chỉ định theo thứ tự" />
+			<Item Name="LocalizableStrings.OrderPassportTabCaption.Value" Value="Chi tiết đơn hàng" />
+			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="Xếp lại dãy chờ" />
+			<Item Name="LocalizableStrings.PostponeQueueItemError.Value" Value="Không thể xếp lại dãy chờ cho mục này. Tin nhắn bị lỗi: {0}" />
+			<Item Name="LocalizableStrings.QuestionAllCaption.Value" Value="Tất cả" />
+			<Item Name="LocalizableStrings.QuestionChoiceCaption.Value" Value="Chọn" />
+			<Item Name="LocalizableStrings.QueueItemIsEmptyError.Value" Value="Trang chưa được kết nối với phần tử dãy chờ máy trung gian. Hành động bị hủy." />
+			<Item Name="LocalizableStrings.QueueItemPostponeFailedMessage.Value" Value="Không thể xếp lại dãy chờ cho mục này" />
+			<Item Name="LocalizableStrings.QueueItemPostponeSucceedMessage.Value" Value="Xếp lại dãy chờ thành công" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Theo dõi tin tức" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Bạn hiện đang theo dõi tin tức: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Mốc thời gian" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Bỏ theo dõi tin tức" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Bạn vừa dừng theo dõi tin tức: {0}" />
+		</Items>
+	</Group>
+</Resources>

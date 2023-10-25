@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page: &quot;Realty (ClassicUI)&quot;" />
+			<Item Name="LocalizableStrings.FLOAT1ee1f1aea30a4352a84e7ea1b735cda7Tip.Value" Value="Full price without commissions" />
+			<Item Name="LocalizableStrings.MyButtonCaption.Value" Value="PUSH ME!" />
+			<Item Name="LocalizableStrings.RunWebServiceButtonCaption.Value" Value="Run service" />
+		</Items>
+	</Group>
+</Resources>

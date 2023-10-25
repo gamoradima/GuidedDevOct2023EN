@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sq-AL">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CreateContract.Value" Value="Kontrata e re bazuar te porosia" />
+			<Item Name="LocalizableStrings.DuplicatesActionCaptionPattern.Value" Value="Shfaq dublikatin '{0}'" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Ndiq faqen" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Ndalo së ndjekuri faqen" />
+		</Items>
+	</Group>
+</Resources>

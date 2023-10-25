@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sq-AL">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ChangeInvoice.Value" Value="Është gjeneruar një faturë për pagesën. Dëshiron të modifikosh të dhënat e faturës?" />
+			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="Shtyje deri" />
+			<Item Name="LocalizableStrings.CreateContract.Value" Value="Kontrata e re bazuar te porosia" />
+			<Item Name="LocalizableStrings.CreateInvoiceByOrderCaption.Caption" Value="Fatura e re bazuar te kjo porosi" />
+			<Item Name="LocalizableStrings.CreateInvoiceByOrderCaption.Value" Value="Fatura e re bazuar te kjo porosi" />
+			<Item Name="LocalizableStrings.CreateInvoiceFromOrderProcessNotSet.Caption" Value="CreateInvoiceFromOrderProcessNotSet" />
+			<Item Name="LocalizableStrings.CreateInvoiceFromOrderProcessNotSet.Value" Value="SysSetting CreateInvoiceFromOrderProcess nuk përmban ndonjë vlerë të procesit." />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Faqe" />
+			<Item Name="LocalizableStrings.FileNotesTabCaption.Value" Value="Bashkëlidhjet dhe shënimet" />
+			<Item Name="LocalizableStrings.LeadTabCaption.Value" Value="Klientët e mundshëm" />
+			<Item Name="LocalizableStrings.LinkProductCaption.Value" Value="Lidh produktet e porositura me kontratën?" />
+			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="Më shumë se një element në radhë i lidhur me procesin. Id e procesit: {0}" />
+			<Item Name="LocalizableStrings.OpportunityCaption.Value" Value="Mundësia" />
+			<Item Name="LocalizableStrings.OpportunityTip.Value" Value="Një mundësi për të cilën u krijua porosia. Kërkimet janë filtruar sipas kontaktit dhe llogarisë së specifikuar në porosi" />
+			<Item Name="LocalizableStrings.OrderPassportTabCaption.Value" Value="Detajet e porosisë" />
+			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="Ri-radhit" />
+			<Item Name="LocalizableStrings.PostponeQueueItemError.Value" Value="Nuk është e mundur të ri-radhitet elementi. Mesazh gabim:{0}" />
+			<Item Name="LocalizableStrings.QuestionAllCaption.Value" Value="Të gjitha" />
+			<Item Name="LocalizableStrings.QuestionChoiceCaption.Value" Value="Përzgjidh" />
+			<Item Name="LocalizableStrings.QueueItemIsEmptyError.Value" Value="Faqja nuk është e lidhur me elementin e radhës së desktopit të agjentit. Veprimi u anulua." />
+			<Item Name="LocalizableStrings.QueueItemPostponeFailedMessage.Value" Value="Nuk është e mundur të ri-radhitet elementi" />
+			<Item Name="LocalizableStrings.QueueItemPostponeSucceedMessage.Value" Value="U ri-radhit me sukses" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Ndiq faqen" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Ju jeni tani duke ndjekur faqen: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Kohështrirja" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Ndalo së ndjekuri faqen" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Ke ndaluar së ndjekuri faqen: {0}" />
+		</Items>
+	</Group>
+</Resources>
