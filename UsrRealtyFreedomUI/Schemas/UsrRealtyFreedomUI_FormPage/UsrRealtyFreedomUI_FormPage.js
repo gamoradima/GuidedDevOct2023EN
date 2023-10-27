@@ -1,4 +1,3 @@
-/*jshint esversion: 11 */
 define("UsrRealtyFreedomUI_FormPage", /**SCHEMA_DEPS*/["@creatio-devkit/common"]/**SCHEMA_DEPS*/, function/**SCHEMA_ARGS*/(sdk)/**SCHEMA_ARGS*/ {
 	return {
 		viewConfigDiff: /**SCHEMA_VIEW_CONFIG_DIFF*/[
@@ -578,6 +577,32 @@ define("UsrRealtyFreedomUI_FormPage", /**SCHEMA_DEPS*/["@creatio-devkit/common"]
 				"parentName": "FlexContainer_ka77ah1",
 				"propertyName": "items",
 				"index": 3
+			},
+			{
+				"operation": "insert",
+				"name": "Button_ik8tj8m",
+				"values": {
+					"type": "crt.Button",
+					"caption": "#ResourceString(Button_ik8tj8m_caption)#",
+					"color": "default",
+					"disabled": false,
+					"size": "medium",
+					"iconPosition": "only-icon",
+					"visible": true,
+					"icon": "document-button-icon",
+					"clicked": {
+						"request": "crt.RunBusinessProcessRequest",
+						"params": {
+							"processName": "UsrAddRealtyVisitsProcess",
+							"processRunType": "ForTheSelectedPage",
+							"recordIdProcessParameterName": "RealtyIdParameter"
+						}
+					},
+					"clickMode": "default"
+				},
+				"parentName": "FlexContainer_ka77ah1",
+				"propertyName": "items",
+				"index": 4
 			},
 			{
 				"operation": "insert",

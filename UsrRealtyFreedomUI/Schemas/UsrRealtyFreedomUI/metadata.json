@@ -36,6 +36,10 @@
   "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
   "S4": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
   "E6": true,
+  "E12": {
+    "FB1": 3,
+    "FB2": "4f367ca9-549b-4a1a-b64e-a40123f52ac0"
+  },
   "E17": "UsrManagerId",
   "E18": "UsrManagerName"
 }
@@ -58,6 +62,10 @@
   "S4": "fbbea2b0-37d6-415c-89d1-4d47bcdcb20d",
   "E6": true,
   "E20": true,
+  "E12": {
+    "FB1": 1,
+    "FB2": "44745f37-c471-4f5c-9749-3901e6922d87"
+  },
   "E17": "UsrOfferTypeId",
   "E18": "UsrOfferTypeName"
 }
@@ -71,6 +79,10 @@
   "S4": "ef01c68e-f41d-4dae-ab39-5d823ca0bd94",
   "E6": true,
   "E20": true,
+  "E12": {
+    "FB1": 1,
+    "FB2": "07e09511-2405-42cd-a25b-03798c15b9f4"
+  },
   "E17": "UsrTypeId",
   "E18": "UsrTypeName"
 }
